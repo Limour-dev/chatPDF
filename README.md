@@ -1,5 +1,8 @@
 # chatPDF
 ## install
+### pdf2markdown
++ https://tools.textin.com/transform/pdf2markdown 效果优秀
+### 本地替代 （效果不佳）
 ```powershell
 conda create -n markerPdf pytorch torchvision torchaudio pytorch-cuda=12.4 -c pytorch -c nvidia
 conda activate markerPdf
